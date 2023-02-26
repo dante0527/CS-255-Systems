@@ -19,4 +19,4 @@ The most important thing when interpreting the user's needs is good, open, and f
 
 ### How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 
-
+I approach designing software at a high level/system level by first thinking about things in a very abstract way, without much fine-grain detail. I tend to use a lot of words like "thing" and "something", because exactly what those things are, probably data, does not matter yet. We must first understand how and where things move, before understanding why they move how they do, which can be discovered by looking at what is the actual input. UML models are an amazing tool, and I love how you can sketch them out on your own and create your own style with them, as long as it fits mostly within the universally accepted guidelines. These tools are amazing not only for understanding a system more yourself, but a lot of people in engineering or business working with engineers are visual learners, so it helps to communicate your ideas about a system to them. This would also pretty much work for anyone who is not super technical.
