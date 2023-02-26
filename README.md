@@ -15,7 +15,7 @@ I would probably revise some of the requirements, as I believe these inherently 
 
 ### How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 
-
+The most important thing when interpreting the user's needs is good, open, and frequent communication. The client in any case has an idea of what they want the final product to look and feel like, and they will try their best to explain what that is to you. You on the other hand, start off with no knowledge of what they want, and they have to recreate their vision for you. Using diagrams, sketches, and other kinds of mock-ups, can make this process a lot more efficient, but you need to check in along the way so they can guide you, and you can offer your expert input so they understand any decisions you make as a developer or system designer as well, or else there will be a disconnect and someone will feel unfulfilled.
 
 ### How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 
